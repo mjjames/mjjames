@@ -4,6 +4,7 @@ on:
     # Once a day at 5 AM
     - cron: 00 22 * * *
   push:
+    branches: main
     paths: /.github/workflows/blogposts.yml
 
 jobs:
