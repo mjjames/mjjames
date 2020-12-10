@@ -12,3 +12,6 @@ I also have experience developing IoT solutions ad I'm currently playing with Wi
 #### [Running a TFS Build Agent on your Raspberry PI &#x2F; ARM based device](https:&#x2F;&#x2F;blog.mjjames.co.uk&#x2F;2019&#x2F;07&#x2F;running-tfs-build-agent-on-your.html)
 #### [DotNet CLI , private NuGet feeds and Linux...](https:&#x2F;&#x2F;blog.mjjames.co.uk&#x2F;2019&#x2F;06&#x2F;dotnet-cli-private-nuget-feeds-and-linux.html)
 <!--END_SECTION:feed-->
+
+### 👨‍💻 My GitHub Stats
+[![MJ's github stats](https://github-readme-stats.vercel.app/api?username=mjjames&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
