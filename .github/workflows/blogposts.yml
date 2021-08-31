@@ -1,8 +1,7 @@
 name: Update readme with blog posts
 on: 
   schedule:
-    # Once a day at 5 AM
-    - cron: 00 22 * * *
+    - cron: 0 0 1 * *
   push:
     paths:
     - '.github/workflows/blogposts.yml'
