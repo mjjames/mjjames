@@ -2,7 +2,7 @@
 I'm MJ and I'm a Technical Lead at [Waters](https://github.com/waterscorporation)!
 
 In my day job I write .Net micro-services and use AWS cloud technologies but in my spare time I also develop mobile applications using Xamarin Forms.
-I also have experience developing IoT solutions ad I'm currently playing with Wilderness Labs Meadow boards.
+I also have experience developing IoT solutions and I'm currently playing with Wilderness Labs Meadow boards.
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
